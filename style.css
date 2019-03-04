@@ -1,0 +1,13 @@
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    margin-right:100px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+}
+
+h1 { font-weight: bold; position: center; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-align: center; color: blue; }
+h2 { font-size: 18px; margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px; text-align: center; color: red; }
+h3 {}
